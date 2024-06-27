@@ -1,0 +1,46 @@
+body {
+  margin: 20px auto;
+  width: 458px;
+}
+
+.card-and-right-shadow {
+  display: flex;
+}
+
+.card {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f9efca;
+  width: 450px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.profile-pic {
+  width: 150px;
+  border: 2px solid black;
+}
+
+.text {
+  color: #2b2839;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p {
+  font-size: 18px;
+}
+
+.right-shadow {
+  width: 8px;
+  height: 194px;
+  background-color: rgb(195, 240, 255);
+  margin-top: 6px;
+}
+
+.bottom-shadow {
+  width: 452px;
+  height: 8px;
+  background-color: rgb(195, 240, 255);
+  margin-left: 6px;
+}
